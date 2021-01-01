@@ -5,3 +5,6 @@ This website helps an user to meet new and interesting dogs nearby!
 
 <img src="header.png"></img>
 <img src="mid.png"></img>
+<img src="review.png"></img>
+<img src="buy.png"></img>
+<img src="footer.png"></img>
