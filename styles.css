@@ -1,0 +1,105 @@
+#title{
+	background-color: #ff4c68;
+}
+h1{
+	color: white;
+	font-family: 'Work Sans', sans-serif;
+	font-size: 4rem;
+	line-height: 1.5;
+}
+h2{
+	font-family:  "Ubuntu";
+	font-size: 3rem;
+	line-height: 3.5rem;
+}
+h3{
+	font-family: 'Bangers', cursive;
+	/*font-weight: bold;*/
+	font-size: 2rem;
+}
+h4{
+	font-weight: lighter;
+}
+p{
+	font-size: 1.2rem;
+}
+.container-fluid{
+	padding: 3% 15%;
+}
+.navbar{
+	margin-bottom: 5rem;
+}
+.navbar-brand{
+	font-family: "Ubuntu";
+	font-size: 2rem;
+}
+.my_btn{
+	margin:5% 5% 5% 0;
+}
+.iphone{
+	position: relative;
+	left: 200px;
+	width: 65%;
+	/*transform: rotate(15deg);*/
+}
+#features{
+	padding: 10% 15%;
+}
+.feature{
+	text-align: center;
+	padding: 8%;
+}
+.pic{
+	color: #ef8172;
+	margin-bottom: 1rem;
+}
+.pic:hover{
+	color:	#ffb3ff;
+}
+#testimonials{
+	background-color: #ff4c68;
+	color: white;
+	padding: 10% 15%;
+	text-align: center;
+}
+.testimonials-dog{
+	position: relative;
+	top: 80px;
+	width: 20%;
+	margin: 20px;
+}
+#press{
+	background-color:  #ff4c68;
+	text-align: center;
+	padding-bottom: 3%;
+}
+.logo{
+	width: 15%;
+	margin: 20px 20px 50px;
+}
+#pricing{
+	padding: 80px;
+	text-align: center;
+}
+.princing-card{
+	padding: 3% 1%;
+}
+
+@media(max-width: 1028px){
+	.iphone{
+		position: static;
+	}
+}                   /*used for responsive website*/
+#cta{
+	background-color:  #ff4c68;
+	color: white;
+	padding: 7% 15%;
+	text-align: center;
+}
+#footer{
+	padding: 5% 15%;
+	text-align: center;
+}
+.last{
+	margin: 20px 10px;
+}
