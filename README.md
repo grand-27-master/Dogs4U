@@ -11,5 +11,7 @@ This website helps an user to meet new and interesting dogs nearby!
 
 ## Sign Up:
 <img src="signin.png"></img><br><br>
-## Login
+## Login:
 <img src="login.png"></img><br><br>
+
+<b>Made with &#128151; by <a href="https://github.com/grand-27-master">Vashishth</a></b>
